@@ -1,0 +1,36 @@
+---
+layout: post
+title: Learning Recording 2
+---
+
+{{ page.title }}
+================
+
+<p class="meta">20 Apr 2015 - GuangZhou City</p>
+
+# Learning Recording 2
+
+----------
+
+###  Git@OSC 代码托管平台(支持github导入)
+
+* http://git.oschina.net/ 
+
+
+
+###  项目团队管理平台(支持git@osc 和 github)
+
+* http://team.oschina.net/
+
+* 功能特点
+
+	1.任务发布
+
+    2.周报提交
+
+    3.讨论组
+
+    4.便签
+
+    5.颜色分类
+
